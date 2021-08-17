@@ -1,0 +1,26 @@
+<p *ngIf="!theatres">No movies to load</p>
+<div class="theatre-container text-center flex">
+  <div *ngFor="let item of theatres">
+    <div
+         class="container row">
+      <div class="card card-box">
+        <div class="card-title">Title: {{ item.theatreName }}</div>
+        <div>City: {{ item.city }}</div>
+        <div>Movie Name: {{ movie.movieName }}</div>
+      </div>
+      <div class="card card-box">
+        <div class="card-title">Tickets</div>
+        <div class="flex">
+          <button class="counter btn btn-danger" (click)="decrement()">
+            <span class="glyphicon glyphicon-minus">-</span>
+          </button>
+          <input class="counter-input btn" name="count" [(ngModel)]="count" value="{{count}}" />
+          <button class="counter btn btn-primary" (click)="increment()">
+            <span class="glyphicon glyphicon-plus">+</span>
+          </button>
+        </div>
+        <button class="book-button btn btn-success" (click)="BookTickets(item.theatreId)">Book</button>
+      </div>
+</div>
+</div>
+</div>

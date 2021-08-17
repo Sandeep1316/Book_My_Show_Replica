@@ -1,0 +1,62 @@
+﻿[
+  {
+    "TheatreId": 1,
+    "TheatreName": "Chanakya And ChandraGupta",
+    "City": "Kakinada",
+    "NumberOfHalls": 2
+  },
+  {
+    "TheatreId": 2,
+    "TheatreName": "Padmalaya",
+    "City": "Kakinada",
+    "NumberOfHalls": 2
+  },
+  {
+    "TheatreId": 3,
+    "TheatreName": "Inox",
+    "City": "Hyderabad",
+    "NumberOfHalls": 3
+  },
+  {
+    "TheatreId": 4,
+    "TheatreName": "Sri Priya",
+    "City": "Hyderabad",
+    "NumberOfHalls": 1
+  },
+  {
+    "TheatreId": 5,
+    "TheatreName": "Anjani",
+    "City": "Bengaluru",
+    "NumberOfHalls": 2
+  },
+  {
+    "TheatreId": 6,
+    "TheatreName": "Devi Multiplex",
+    "City": "Bengaluru",
+    "NumberOfHalls": 3
+  },
+  {
+    "TheatreId": 7,
+    "TheatreName": "Tirumala",
+    "City": "Tirupathi",
+    "NumberOfHalls": 1
+  },
+  {
+    "TheatreId": 8,
+    "TheatreName": "Venkateswara Theatre",
+    "City": "Tirupathi",
+    "NumberOfHalls": 1
+  },
+  {
+    "TheatreId": 9,
+    "TheatreName": "Veera Raghava",
+    "City": "Kadapa",
+    "NumberOfHalls": 1
+  },
+  {
+    "TheatreId": 10,
+    "TheatreName": "RamiReddy",
+    "City": "Kadapa",
+    "NumberOfHalls": 1
+  }
+]

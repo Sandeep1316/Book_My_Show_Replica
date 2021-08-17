@@ -1,0 +1,10 @@
+.movie-container {
+  width: 1200px;
+  height: auto;
+  flex-direction: row;
+}
+
+.movie {
+  width: 300px;
+  height: 150px;
+}

@@ -1,0 +1,62 @@
+﻿[
+  {
+    "MovieId": 1,
+    "MovieName": "Paagal",
+    "IMDBrating": 8.3,
+    "ActorName": "Vishwak Sen",
+    "ActressName": "Simran Chowdary",
+    "Category": "Tollywood",
+    "Genre": "Romantic",
+    "ReleaseDate": "2021-08-14"
+  },
+  {
+    "MovieId": 2,
+    "MovieName": "SR KalyanaMandapam",
+    "IMDBrating": 8.3,
+    "ActorName": "Kiran Abbavaram",
+    "ActressName": "Priyanka Jawalkar",
+    "Category": "Tollywood",
+    "Genre": "Romantic",
+    "ReleaseDate": "2021-08-06"
+  },
+  {
+    "MovieId": 3,
+    "MovieName": "The Suicide Squad",
+    "IMDBrating": 8.3,
+    "ActorName": "",
+    "ActressName": "",
+    "Category": "Hollywood",
+    "Genre": "Action",
+    "ReleaseDate": "2021-08-05"
+  },
+  {
+    "MovieId": 4,
+    "MovieName": "The Conjuring: The Devil Made Me Do",
+    "IMDBrating": 8.3,
+    "ActorName": "",
+    "ActressName": "",
+    "Category": "Hollywood",
+    "Genre": "Horror",
+    "ReleaseDate": "2021-08-06"
+  },
+  {
+    "MovieId": 5,
+    "MovieName": "Sarpatta Parambarai",
+    "IMDBrating": 8.3,
+    "ActorName": "Aarya",
+    "ActressName": "Dushara Vijayan",
+    "Category": "Kollywood",
+    "Genre": "Sport",
+    "ReleaseDate": "2021-07-22"
+  },
+  {
+    "MovieId": 6,
+    "MovieName": "Raadhe",
+    "IMDBrating": 8.3,
+    "ActorName": "Salman Khan",
+    "ActressName": "Disha Patani",
+    "Category": "Bollywood",
+    "Genre": "Drama",
+    "ReleaseDate": "2021-05-13"
+  }
+]

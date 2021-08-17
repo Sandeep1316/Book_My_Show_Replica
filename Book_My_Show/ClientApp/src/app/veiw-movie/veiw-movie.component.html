@@ -1,0 +1,12 @@
+
+<div class="text-center">
+  <div *ngIf="movie" class="card">
+    <div class="card-title">Title: {{ movie.movieName }}</div>
+    <div>Release Date: {{ movie.releaseDate | date }}</div>
+    <div>Category: {{ movie.category }}</div>
+    <div>Genre: {{ movie.genre }}</div>
+    <div *ngIf="movie.actorName">ActorName: {{ movie.actorName }}</div>
+    <div *ngIf="movie.actressName">ActressName: {{ movie.actressName }}</div>
+    <a class="btn btn-primary" [routerLink]="['/theatre', movie.movieId]">Book</a>
+  </div>
+</div>

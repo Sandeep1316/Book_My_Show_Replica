@@ -1,0 +1,12 @@
+<p *ngIf="!userBags">No tickets to load</p>
+<div *ngIf="userBags">
+  <div *ngFor="let item of userBags, let i=index">
+    <div class="card">
+      <div class="card-title">TheatreName: {{ item.theatreName }}</div>
+      <div>MovieName: {{ item.movieName}}</div>
+      <div>City: {{ item.city }}</div>
+      <div>Screen : {{item.screenId }}</div>
+      <div>Tickets:{{ item.tickets}}</div>
+    </div>
+  </div>
+</div>

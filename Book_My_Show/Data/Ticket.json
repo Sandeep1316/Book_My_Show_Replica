@@ -1,0 +1,104 @@
+﻿[
+  {
+    "Id": 1,
+    "TheatreId": 1,
+    "ScreenId": 1,
+    "MovieId": 2
+  },
+  {
+    "Id": 2,
+    "TheatreId": 1,
+    "ScreenId": 2,
+    "MovieId": 3
+  },
+  {
+    "Id": 3,
+    "TheatreId": 2,
+    "ScreenId": 1,
+    "MovieId": 1
+  },
+  {
+    "Id": 4,
+    "TheatreId": 2,
+    "ScreenId": 2,
+    "MovieId": 5
+  },
+  {
+    "Id": 5,
+    "TheatreId": 3,
+    "ScreenId": 1,
+    "MovieId": 1
+  },
+  {
+    "Id": 6,
+    "TheatreId": 3,
+    "ScreenId": 2,
+    "MovieId": 5
+  },
+  {
+    "Id": 7,
+    "TheatreId": 3,
+    "ScreenId": 3,
+    "MovieId": 6
+  },
+  {
+    "Id": 8,
+    "TheatreId": 4,
+    "ScreenId": 1,
+    "MovieId": 4
+  },
+  {
+    "Id": 9,
+    "TheatreId": 5,
+    "ScreenId": 1,
+    "MovieId": 4
+  },
+  {
+    "Id": 10,
+    "TheatreId": 5,
+    "ScreenId": 2,
+    "MovieId": 3
+  },
+  {
+    "Id": 11,
+    "TheatreId": 6,
+    "ScreenId": 1,
+    "MovieId": 2
+  },
+  {
+    "Id": 12,
+    "TheatreId": 6,
+    "ScreenId": 2,
+    "MovieId": 5
+  },
+  {
+    "Id": 13,
+    "TheatreId": 6,
+    "ScreenId": 3,
+    "MovieId": 6
+  },
+  {
+    "Id": 14,
+    "TheatreId": 7,
+    "ScreenId": 1,
+    "MovieId": 1
+  },
+  {
+    "Id": 15,
+    "TheatreId": 8,
+    "ScreenId": 1,
+    "MovieId": 2
+  },
+  {
+    "Id": 16,
+    "TheatreId": 9,
+    "ScreenId": 1,
+    "MovieId": 5
+  },
+  {
+    "Id": 17,
+    "TheatreId": 10,
+    "ScreenId": 1,
+    "MovieId": 1
+  }
+]

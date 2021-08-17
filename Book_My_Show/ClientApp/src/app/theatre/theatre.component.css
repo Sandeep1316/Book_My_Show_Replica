@@ -1,0 +1,11 @@
+.card-box{
+    width: 400px;
+}
+.book-button{
+    margin-left: 100px;
+    width: 200px;
+}
+.counter-input{
+    width: 50px;
+    border: 1px solid black;
+}
